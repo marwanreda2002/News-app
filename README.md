@@ -1,2 +1,2 @@
 # News-app
-its mobile app for news
+its mobile app using Flutter that represents some news
